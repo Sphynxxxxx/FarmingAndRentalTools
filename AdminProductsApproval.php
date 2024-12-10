@@ -74,7 +74,7 @@ $declined_result = $conn->query("SELECT * FROM products WHERE status = 'declined
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admins Product Approval</title>
+    <title>Admin Product Approval</title>
     <style>
         body {
             font-family: Arial, sans-serif;

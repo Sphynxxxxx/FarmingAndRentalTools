@@ -17,11 +17,11 @@ if (!$result) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lender's Profile</title>
+    <title>No Profile</title>
     <link rel="stylesheet" href="styles.css"> <!-- Optional for styling -->
 </head>
 <body>
-    <h2>Lender's Profile</h2>
+    <h2>Lender's Profiles</h2>
 
     <!-- Back Button -->
     <a href="Admin.php">
