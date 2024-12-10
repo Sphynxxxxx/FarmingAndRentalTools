@@ -279,7 +279,7 @@ $declined_result = $conn->query("SELECT * FROM products WHERE status = 'declined
         <a href="Admin.php">Back to Dashboard</a>
     </div>
 
-    <h2>Product Admin Approval</h2>
+    <h2>Productsss Admin Approval</h2>
     <div class="container2">
 
         <!-- Pending Products -->
