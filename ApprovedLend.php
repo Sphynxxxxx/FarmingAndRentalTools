@@ -21,7 +21,7 @@ if (!$result) {
     <link rel="stylesheet" href="styles.css"> <!-- Optional for styling -->
 </head>
 <body>
-    <h2>Lender's Profilesss</h2>
+    <h2>Lender's Profiles</h2>
 
     <!-- Back Button -->
     <a href="Admin.php">
